@@ -24,7 +24,7 @@ body, h1, p {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 250vh;
+    height: 300vh;
     text-align: center;
   }
   
